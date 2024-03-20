@@ -7,8 +7,8 @@ export default function Home() {
    <div>
       <header>
         <Navbar/>
-        <Hero/>
       </header>
+        <Hero/>
    </div>
   );
 }

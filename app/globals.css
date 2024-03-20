@@ -2,4 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+    font-family: 'w';
+    src: url('../public/WanoQuin-ExtraBold.otf') format('opentype');
+}
 
+* {
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    color: #fff;
+    overflow-x: hidden;
+   
+}
